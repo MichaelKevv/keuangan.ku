@@ -1,6 +1,6 @@
 # Keuangan.ku - Aplikasi Pencatat Keuangan Pribadi
 
-Keuangan.ku adalah aplikasi web yang dirancang untuk membantu pengguna melacak dan mengelola keuangan pribadi mereka dengan cara yang sederhana dan efisien. Aplikasi ini dibangun menggunakan Laravel 11 dan menyediakan antarmuka yang bersih dan modern untuk mencatat pemasukan, pengeluaran, dan mengelola berbagai akun atau dompet.
+Keuangan.ku adalah aplikasi web yang dirancang untuk membantu pengguna melacak dan mengelola keuangan pribadi mereka dengan cara yang sederhana dan efisien. Aplikasi ini dibangun menggunakan Laravel 12 dan menyediakan antarmuka yang bersih dan modern untuk mencatat pemasukan, pengeluaran, dan mengelola berbagai akun atau dompet.
 
 ![Screenshot Dashboard Keuangan.ku](https://i.imgur.com/0FsgKEZ.png)
 
@@ -17,7 +17,7 @@ Keuangan.ku adalah aplikasi web yang dirancang untuk membantu pengguna melacak d
 
 ## Teknologi yang Digunakan
 
-- **Backend:** Laravel 11, PHP 8.2+
+- **Backend:** Laravel 12, PHP 8.2+
 - **Frontend:** Vite, Tailwind CSS, Alpine.js
 - **Database:** MySQL
 - **Library Tambahan:**
@@ -88,7 +88,3 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan pengemb
       ```
 
 Sekarang, Anda dapat mengakses aplikasi di `http://127.0.0.1:8000`.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
