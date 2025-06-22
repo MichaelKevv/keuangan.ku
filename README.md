@@ -2,7 +2,7 @@
 
 Keuangan.ku adalah aplikasi web yang dirancang untuk membantu pengguna melacak dan mengelola keuangan pribadi mereka dengan cara yang sederhana dan efisien. Aplikasi ini dibangun menggunakan Laravel 11 dan menyediakan antarmuka yang bersih dan modern untuk mencatat pemasukan, pengeluaran, dan mengelola berbagai akun atau dompet.
 
-![Screenshot Dashboard Keuangan.ku](https://i.imgur.com/your-screenshot-url.png) <!-- Ganti dengan URL screenshot aplikasi Anda -->
+![Screenshot Dashboard Keuangan.ku](https://ibb.co/rGThx44S) <!-- Ganti dengan URL screenshot aplikasi Anda -->
 
 ## Fitur Utama
 
